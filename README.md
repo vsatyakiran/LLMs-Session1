@@ -1,5 +1,6 @@
 # LLMs-Session1
 Intro Natural Language Processing(NLP)
+
 In session1 I have completed the intro to NLP
 
 **Collab link** : https://colab.research.google.com/drive/1VFpHHxvLGkAIS-M9mD-GyRRkNaZpx98s?usp=sharing
@@ -10,7 +11,7 @@ In session1 I have completed the intro to NLP
 
 **Explore visualization with tensorflow projector** : https://projector.tensorflow.org/
 
-I have provided with vectors.tsv file, you can use that file for visualization with tensorflow projector
+I have provided you vectors.tsv file, you can use that file for visualization with tensorflow projector
 
 # Agenda of this Journey:
 ## Session1: Intro NLP
