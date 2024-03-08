@@ -42,7 +42,7 @@ classification of transformers based on encoders and decoders.
 * Decoder Only Models - GPT
 * Encoder-Decoder Models - Seq2Seq
   
-I have completed how self-attention machanism made revolution in NLP.
+I also explained what **Self-Attention** is and how this machanism made revolution in NLP.
 
 I have provided the PPT of the session above , go through it to get overview about Transformers.[Self Attention:](https://arxiv.org/abs/1706.03762)
 
